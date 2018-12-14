@@ -1,0 +1,10 @@
+{
+    "name": "KoreEditor",
+    "references": [
+        "Kore"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}
